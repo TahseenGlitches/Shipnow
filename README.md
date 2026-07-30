@@ -4,7 +4,14 @@ Live demo: https://shipnow-xi.vercel.app/
 
 ## Setup
 
-Open `index.html` in a browser or serve the folder with any static file server. The app is self-contained and uses local mock data only.
+```bash
+cd shipnow
+npm install
+npm run dev
+```
+
+The app opens at **http://localhost:5173/**.
+
 
 ## Screen Status
 
